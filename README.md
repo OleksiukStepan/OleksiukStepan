@@ -1,32 +1,42 @@
 <h1 align="center">Hey there, I'm Stepan! 👋</h1>
-<p align="center">Backend Developer | Web Scraping Enthusiast | Automation Lover</p>
+<p align="center">Backend Developer | Web Scraping & Automation Enthusiast</p>
 
 ---
 
 ### 🧑‍💻 About Me
 
-Passionate Python Developer with a focus on FastAPI, Django, and automation. Always eager to learn and build meaningful projects.
+Former sales manager turned backend developer with real-world experience in Django, Django REST Framework, and PostgreSQL. Built and deployed multiple apps, including a Stripe-integrated library system and a Telegram-notified task manager. Comfortable with Docker, CI/CD, and writing clean, scalable code. Known for strong communication, fast learning, and getting things done — whether it’s leading a team or solving messy bugs at 3AM.
 
 ---
 
 ### 🌐 Languages
 
 - 🇺🇦 Ukrainian — Native  
-- 🇬🇧 English — Upper-Intermediate
-- 🇨🇿 Czech - Pre-Intermediate
+- 🇬🇧 English — Upper-Intermediate  
+- 🇨🇿 Czech — Pre-Intermediate
 
 ---
 
 ### 🛠️ My stack and tools
 
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCODE-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code)
-![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+#### 💻 Backend & Fundamentals:
+- `Python 3.7+`, OOP, SOLID, DRY, KISS
+- Design Patterns, TDD, Algorithms, Data Structures
+- `Django`, `Django REST Framework`, `FastAPI (basics)`
+- `PostgreSQL`, `SQLite`, `Redis (basics)`, `MongoDB (basic)`
+- Web scraping: `Selenium`, `Scrapy`
+- Data Analysis: `NumPy`, `Pandas`, `Matplotlib`, `Tableau`
+
+#### ⚙️ DevOps & Concurrency:
+- `Docker`, `Render.com`, CI/CD, Linux (basic)
+- Multiprocessing, Multithreading, `AsyncIO`, `Celery`
+
+#### 🌐 Frontend:
+- HTML5, CSS3, Bootstrap, JavaScript (basic)
+
+#### 🔧 Tools & Practices:
+- Git, GitHub, Pytest, Debugger, Trello
+- Networking: HTTP, SSL/TLS, JWT
 
 ---
 
@@ -38,16 +48,10 @@ Passionate Python Developer with a focus on FastAPI, Django, and automation. Alw
 
 ---
 
-_“Love building, love learning, love sharing.”_
+### 🔗 Find Me Online
 
-
-
-<!-- 
-### 🏆 Achievements
-
-- 💯 Completed Mate Academy Python Dev Course
-- 🧠 Constant self-learning: JS, MongoDB, Linux
-- 📈 Contributing to Open Source
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stepan-oleksiuk-0a32252b4/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OleksiukStepan)
 
 ---
 
@@ -55,7 +59,9 @@ _“Love building, love learning, love sharing.”_
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/YourLink)
 
--->
+---
+
+_“Love building, love learning, love sharing.”_
 
 
 
