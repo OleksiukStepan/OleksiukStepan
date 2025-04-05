@@ -12,7 +12,8 @@ Passionate Python Developer with a focus on FastAPI, Django, and automation. Alw
 ### 🌐 Languages
 
 - 🇺🇦 Ukrainian — Native  
-- 🇬🇧 English — Intermediate
+- 🇬🇧 English — Upper-Intermediate
+- 🇨🇿 Czech - Pre-Intermediate
 
 ---
 
@@ -37,6 +38,11 @@ Passionate Python Developer with a focus on FastAPI, Django, and automation. Alw
 
 ---
 
+_“Love building, love learning, love sharing.”_
+
+
+
+<!-- 
 ### 🏆 Achievements
 
 - 💯 Completed Mate Academy Python Dev Course
@@ -49,9 +55,9 @@ Passionate Python Developer with a focus on FastAPI, Django, and automation. Alw
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/YourLink)
 
----
+-->
 
-_“Love building, love learning, love sharing.”_
+
 
 <!--
 **OleksiukStepan/OleksiukStepan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
