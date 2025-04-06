@@ -1,12 +1,5 @@
-<canvas id="matrix"></canvas>
-<h1>
-    Welcome to The Matrix ██▓▒░ <br>
-    Loading profile: Stepan ██████████ 100%
-</h1>
-<h2>
-    Red Pill Protocol .......... activated ✅ <br>
-    Status: Backend Engineer | Pythonista | Trapped in the Simulation
-</h2>
+<h1 align="center">> Hello, I'm Stepan</h1>
+<p align="center"><i>Backend Developer. Pythonista. The Matrix has you now.</i></p>
 
 ---
 
