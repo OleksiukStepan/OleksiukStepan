@@ -58,6 +58,9 @@ You have to see it for yourself.”
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40" alt="Django"/><br>Django
     </td>
     <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg" width="40" height="40" alt="DRF"/><br>DRF
+    </td>
+    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="40" height="40" alt="FastAPI"/><br>FastAPI
     </td>
     <td align="center">
@@ -67,22 +70,22 @@ You have to see it for yourself.”
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="SQLite"/><br>SQLite
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="SQLite"/><br>MongoDB
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/><br>MongoDB
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40" alt="Redis"/><br>Redis
     </td>
     <td align="center">
-      <img src="https://res.cloudinary.com/dk8llnkrq/image/upload/v1743957955/scrapy_rje8a4.webp" width="40" height="40" alt="Scrapy"/><br>Scrapy
+      <img src="https://res.cloudinary.com/dk8llnkrq/image/upload/v1743958346/celery-python-node-js-task-celery-755894a76372dafcd4ea5b9da118e9ad_dwtvdb.png" width="40" height="40" alt="Celery"/><br>Celery
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40" height="40" alt="Selenium"/><br>Selenium
-    </td>
-    <td align="center">
-      <img src="https://res.cloudinary.com/dk8llnkrq/image/upload/v1743958795/Screenshot_2025-04-06_at_19.57.37_asrsr4.png" width="40" height="40" alt="Selenium"/><br>Beautiful Soup
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/><br>Docker
     </td>
   </tr>
   <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/><br>Linux
+    </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/><br>Pandas
     </td>
@@ -96,9 +99,6 @@ You have to see it for yourself.”
       <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="40" height="40" alt="Tableau"/><br>Tableau
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/><br>Docker
-    </td>
-    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/><br>JavaScript
     </td>
     <td align="center">
@@ -108,10 +108,27 @@ You have to see it for yourself.”
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS"/><br>CSS
     </td>
     <td align="center">
-      <img src="https://res.cloudinary.com/dk8llnkrq/image/upload/v1743958346/celery-python-node-js-task-celery-755894a76372dafcd4ea5b9da118e9ad_dwtvdb.png" width="40" height="40" alt="Celery"/><br>Celery
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap"/><br>Bootstrap
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="40" height="40" alt="Postman"/><br>Postman
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://res.cloudinary.com/dk8llnkrq/image/upload/v1743957955/scrapy_rje8a4.webp" width="40" height="40" alt="Scrapy"/><br>Scrapy
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40" height="40" alt="Selenium"/><br>Selenium
+    </td>
+    <td align="center">
+      <img src="https://res.cloudinary.com/dk8llnkrq/image/upload/v1743958795/Screenshot_2025-04-06_at_19.57.37_asrsr4.png" width="40" height="40" alt="BS4"/><br>BS4
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/><br>Git
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" width="40" height="40" alt="Trello"/><br>Trello
     </td>
   </tr>
 </table>
