@@ -23,18 +23,6 @@ if __name__ == "__main__":
 
 ---
 
-### 🧑‍\U0001F4BB About Me
-
-I’m **Stepan Oleksiuk** — a backend developer navigating the Matrix of APIs, bugs, and business logic. I don’t wait for the chosen one. I deploy.
-
-I build:
-- Clean, scalable **REST APIs** with Django, DRF, FastAPI
-- Smart data pipelines for **web scraping & automation**
-- Tools and services powered by **PostgreSQL**, Redis, Docker
-- Always learning, always iterating
-
----
-
 ### 🌐 Languages
 
 - 🇦🇪 Ukrainian — Native  
@@ -96,18 +84,6 @@ ERROR 404: Reality not found
 Success. Red Pill injected.
 Welcome to the source.
 ```
-
----
-
-<details>
-<summary>🔐 You weren’t supposed to see this</summary>
-
-```python
-# also_me = Developer(language="JavaScript")
-# error: existential crisis initiated
-```
-
-</details>
 
 ---
 
