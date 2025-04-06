@@ -79,10 +79,13 @@ You have to see it for yourself.”
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40" height="40" alt="Selenium"/><br>Selenium
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/><br>Pandas
+      <img src="https://res.cloudinary.com/dk8llnkrq/image/upload/v1743958795/Screenshot_2025-04-06_at_19.57.37_asrsr4.png" width="40" height="40" alt="Selenium"/><br>Beautiful Soup
     </td>
   </tr>
   <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/><br>Pandas
+    </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy"/><br>NumPy
     </td>
