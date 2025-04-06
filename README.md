@@ -5,7 +5,19 @@
 
 ### 🧑‍💻 About Me
 
-Former sales manager turned backend developer with real-world experience in Django, Django REST Framework, and PostgreSQL. Built and deployed multiple apps, including a Stripe-integrated library system and a Telegram-notified task manager. Comfortable with Docker, CI/CD, and writing clean, scalable code. Known for strong communication, fast learning, and getting things done — whether it’s leading a team or solving messy bugs at 3AM.
+def who_am_i():
+    return "Not the One"
+
+def what_do_i_do():
+    return "Write code like it matters"
+
+def reason():
+    return "Because someone has to"
+
+if __name__ == "__main__":
+    print("I chose Python.")
+    print("I chose the red pill.")
+    print(f"I know I’m {who_am_i()}, but I {what_do_i_do()} — {reason()}.")
 
 ---
 
