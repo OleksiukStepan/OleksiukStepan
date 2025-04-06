@@ -23,13 +23,11 @@ if __name__ == "__main__":
 
 ---
 
-🟩 **Enter the Simulation**
+🟩 “Unfortunately, no one can be told what the Matrix is.  
+You have to see it for yourself.”
 
-```bash
-> launch matrix --user=Recruiter
-> loading... ██████████ 100%
-> redirect: [https://OleksiukStepan.github.io](https://OleksiukStepan.github.io)
-```
+🔗 [Enter the Matrix](https://OleksiukStepan.github.io)
+
 ---
 
 
