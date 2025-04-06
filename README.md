@@ -3,7 +3,7 @@
     Loading profile: Stepan ██████████ 100%
 </h1>
 <h2>
-    Red Pill Protocol .......... activated ✅
+    Red Pill Protocol .......... activated ✅ <br>
     Status: Backend Engineer | Pythonista | Trapped in the Simulation
 </h2>
 
