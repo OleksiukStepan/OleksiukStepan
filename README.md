@@ -1,11 +1,13 @@
-<svg viewBox="0 0 1000 300">
-  <text x="50%" y="50%" text-anchor="middle" fill="#00ff00" font-size="60" font-family="monospace">
-    Stepan.exe
-  </text>
-  <text x="50%" y="50%" text-anchor="middle" fill="red" font-size="60" font-family="monospace" opacity="0.5">
-    St⟋ep⧖an.exe
-  </text>
-</svg>
+<h1 align="center">
+  <code>
+    █████ SYSTEM ONLINE █████
+  </code>
+</h1>
+<p align="center">
+  <code>
+    Stepan.exe | Backend Interface | Red-Pill Protocol: ACTIVE
+  </code>
+</p>
 
 ---
 
