@@ -5,6 +5,7 @@
 
 ### 🧑‍💻 About Me
 
+'''
 def who_am_i():
     return "Not the One"
 
@@ -18,6 +19,7 @@ if __name__ == "__main__":
     print("I chose Python.")
     print("I chose the red pill.")
     print(f"I know I’m {who_am_i()}, but I {what_do_i_do()} — {reason()}.")
+'''
 
 ---
 
