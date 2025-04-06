@@ -36,7 +36,7 @@ if __name__ == "__main__":
 
 ### 🌐 Languages
 
-- 🇦🇪 Ukrainian — Native  
+- 🇺🇦 Ukrainian — Native  
 - 🇬🇧 English — Upper-Intermediate  
 - 🇨🇿 Czech — Pre-Intermediate
 
