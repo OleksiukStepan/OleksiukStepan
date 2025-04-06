@@ -1,6 +1,7 @@
 <h1 align="center">> Hello, I'm Stepan</h1>
 <p align="center"><i>Backend Developer. Pythonista. The Matrix has you now.</i></p>
 
+<!--
 ---
 
 ```python
@@ -20,6 +21,7 @@ if __name__ == "__main__":
     print("I chose the red pill.")
     print(f"I know I’m {who_am_i()}, but I {what_do_i_do()} — {reason()}.")
 ```
+-->
 
 ---
 
