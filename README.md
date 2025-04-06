@@ -85,7 +85,3 @@ You have to see it for yourself.”
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=OleksiukStepan&theme=radical" />
 </p>
 
----
-
-> "Unfortunately, no one can be told what the Matrix is. You have to see it for yourself."
-> — Morpheus
