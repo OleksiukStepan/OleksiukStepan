@@ -20,10 +20,16 @@ if __name__ == "__main__":
     print("I chose the red pill.")
     print(f"I know I’m {who_am_i()}, but I {what_do_i_do()} — {reason()}.")
 ```
+
 ---
 
-🟩 Enter the Matrix:  
-➡️ [https://OleksiukStepan.github.io](https://OleksiukStepan.github.io)
+🟩 **Enter the Simulation**
+
+```bash
+> launch matrix --user=Recruiter
+> loading... ██████████ 100%
+> redirect: [https://OleksiukStepan.github.io](https://OleksiukStepan.github.io)
+
 ---
 
 
@@ -74,20 +80,6 @@ if __name__ == "__main__":
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OleksiukStepan&layout=compact&theme=radical" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=OleksiukStepan&theme=radical" />
 </p>
-
----
-
-### 🕵️‍♂️ Matrix Logs
-
-```
-> open matrix.py
-System: Welcome back, Stepan.
-> run deploy --prod
-ERROR 404: Reality not found
-> run awaken.sh
-Success. Red Pill injected.
-Welcome to the source.
-```
 
 ---
 
