@@ -1,12 +1,5 @@
-<h1 align="center">
-  <code>
-    █████ SYSTEM ONLINE █████
-  </code>
-</h1>
 <p align="center">
-  <code>
-    Stepan.exe | Backend Interface | Red-Pill Protocol: ACTIVE
-  </code>
+  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/matrix-header.gif" alt="Matrix Rain" />
 </p>
 
 ---
