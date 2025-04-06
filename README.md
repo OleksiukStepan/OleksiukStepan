@@ -47,8 +47,6 @@ You have to see it for yourself.”
 
 ### 💻 My stack and tools
 
-<h3 align="center">💻 My stack and tools</h3>
-
 <table align="center">
   <tr>
     <td align="center">
@@ -75,17 +73,8 @@ You have to see it for yourself.”
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40" alt="Redis"/><br>Redis
     </td>
-    <td align="center">
-      <img src="https://res.cloudinary.com/dk8llnkrq/image/upload/v1743958346/celery-python-node-js-task-celery-755894a76372dafcd4ea5b9da118e9ad_dwtvdb.png" width="40" height="40" alt="Celery"/><br>Celery
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/><br>Docker
-    </td>
   </tr>
   <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/><br>Linux
-    </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/><br>Pandas
     </td>
@@ -110,11 +99,20 @@ You have to see it for yourself.”
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap"/><br>Bootstrap
     </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://res.cloudinary.com/dk8llnkrq/image/upload/v1743958346/celery-python-node-js-task-celery-755894a76372dafcd4ea5b9da118e9ad_dwtvdb.png" width="40" height="40" alt="Celery"/><br>Celery
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/><br>Docker
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/><br>Linux
+    </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="40" height="40" alt="Postman"/><br>Postman
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <img src="https://res.cloudinary.com/dk8llnkrq/image/upload/v1743957955/scrapy_rje8a4.webp" width="40" height="40" alt="Scrapy"/><br>Scrapy
     </td>
@@ -123,9 +121,6 @@ You have to see it for yourself.”
     </td>
     <td align="center">
       <img src="https://res.cloudinary.com/dk8llnkrq/image/upload/v1743958795/Screenshot_2025-04-06_at_19.57.37_asrsr4.png" width="40" height="40" alt="BS4"/><br>BS4
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/><br>Git
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" width="40" height="40" alt="Trello"/><br>Trello
