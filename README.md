@@ -1,7 +1,11 @@
-Welcome to The Matrix ██▓▒░
-Loading profile: Stepan ██████████ 100%
-Red Pill Protocol .......... activated ✅
-Status: Backend Engineer | Pythonista | Trapped in the Simulation
+<h1>
+    Welcome to The Matrix ██▓▒░ <br>
+    Loading profile: Stepan ██████████ 100%
+</h1>
+<h2>
+    Red Pill Protocol .......... activated ✅
+    Status: Backend Engineer | Pythonista | Trapped in the Simulation
+</h2>
 
 ---
 
