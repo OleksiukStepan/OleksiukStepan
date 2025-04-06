@@ -3,9 +3,9 @@
 
 ---
 
-### 🧑‍💻 About Me
+```python
+# who_is_stepan.py
 
-'''
 def who_am_i():
     return "Not the One"
 
@@ -19,13 +19,25 @@ if __name__ == "__main__":
     print("I chose Python.")
     print("I chose the red pill.")
     print(f"I know I’m {who_am_i()}, but I {what_do_i_do()} — {reason()}.")
-'''
+```
+
+---
+
+### 🧑‍\U0001F4BB About Me
+
+I’m **Stepan Oleksiuk** — a backend developer navigating the Matrix of APIs, bugs, and business logic. I don’t wait for the chosen one. I deploy.
+
+I build:
+- Clean, scalable **REST APIs** with Django, DRF, FastAPI
+- Smart data pipelines for **web scraping & automation**
+- Tools and services powered by **PostgreSQL**, Redis, Docker
+- Always learning, always iterating
 
 ---
 
 ### 🌐 Languages
 
-- 🇺🇦 Ukrainian — Native  
+- 🇦🇪 Ukrainian — Native  
 - 🇬🇧 English — Upper-Intermediate  
 - 🇨🇿 Czech — Pre-Intermediate
 
@@ -73,21 +85,31 @@ if __name__ == "__main__":
 
 ---
 
-_“Love building, love learning, love sharing.”_
+### 🕵️‍♂️ Matrix Logs
 
+```
+> open matrix.py
+System: Welcome back, Stepan.
+> run deploy --prod
+ERROR 404: Reality not found
+> run awaken.sh
+Success. Red Pill injected.
+Welcome to the source.
+```
 
+---
 
-<!--
-**OleksiukStepan/OleksiukStepan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<details>
+<summary>🔐 You weren’t supposed to see this</summary>
 
-Here are some ideas to get you started:
+```python
+# also_me = Developer(language="JavaScript")
+# error: existential crisis initiated
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</details>
+
+---
+
+> "Unfortunately, no one can be told what the Matrix is. You have to see it for yourself."
+> — Morpheus
