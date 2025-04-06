@@ -1,6 +1,7 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/matrix-header.gif" alt="Matrix Rain" />
-</p>
+Welcome to The Matrix ██▓▒░
+Loading profile: Stepan ██████████ 100%
+Red Pill Protocol .......... activated ✅
+Status: Backend Engineer | Pythonista | Trapped in the Simulation
 
 ---
 
