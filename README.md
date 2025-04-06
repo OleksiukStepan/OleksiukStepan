@@ -1,11 +1,27 @@
-<h1>
-    Welcome to The Matrix ██▓▒░ <br>
-    Loading profile: Stepan ██████████ 100%
-</h1>
-<h2>
-    Red Pill Protocol .......... activated ✅ <br>
-    Status: Backend Engineer | Pythonista | Trapped in the Simulation
-</h2>
+<canvas id="matrix"></canvas>
+<script>
+const canvas = document.getElementById("matrix");
+const ctx = canvas.getContext("2d");
+canvas.height = window.innerHeight;
+canvas.width = window.innerWidth;
+const letters = "0123456789".split("");
+let drops = Array(Math.floor(canvas.width / 10)).fill(1);
+
+function drawMatrix() {
+  ctx.fillStyle = "rgba(0, 0, 0, 0.05)";
+  ctx.fillRect(0, 0, canvas.width, canvas.height);
+  ctx.fillStyle = "#0F0";
+  ctx.font = "14px monospace";
+
+  drops.forEach((y, x) => {
+    const text = letters[Math.floor(Math.random() * letters.length)];
+    ctx.fillText(text, x * 10, y * 20);
+    drops[x] = y * 20 > canvas.height && Math.random() > 0.975 ? 0 : y + 1;
+  });
+}
+
+setInterval(drawMatrix, 33);
+</script>
 
 ---
 
