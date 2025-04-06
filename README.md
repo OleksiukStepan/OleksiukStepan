@@ -25,10 +25,14 @@ if __name__ == "__main__":
 
 ---
 
-🟩 “Unfortunately, no one can be told what the Matrix is.  
+<p align="center">
+🟩 “Unfortunately, no one can be told what the Matrix is.<br>
 You have to see it for yourself.”
+</p>
 
-🔗 [Enter the Matrix](https://OleksiukStepan.github.io)
+<p align="center">
+🔗 <a href="https://OleksiukStepan.github.io">Enter the Matrix</a>
+</p>
 
 ---
 
