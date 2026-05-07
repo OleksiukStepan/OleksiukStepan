@@ -1,5 +1,5 @@
 <h1 align="center">> Hello, I'm Stepan</h1>
-<p align="center"><i>Backend Developer. Pythonista. The Matrix has you now.</i></p>
+<p align="center">Backend Developer 💻 Pythonista</p>
 
 <!--
 ---
@@ -25,18 +25,18 @@ if __name__ == "__main__":
 
 ---
 
-<p align="center">
-“Unfortunately, no one can be told what the Matrix is.<br>
-You have to see it for yourself.”
-</p>
+<p align="center"><i>
+“Unfortunately, no one can be told what the Matrix is<br>
+You have to see it for yourself”
+</i></p>
 
 <p align="center">
-💊 <a href="https://OleksiukStepan.github.io">Enter the Matrix</a>
+💊 <a href="https://OleksiukStepan.github.io">Enter the Matrix</a> 💊
 </p>
 
 ---
 
-
+<!--
 ### 🌐 Languages
 
 - 🇺🇦 Ukrainian — Native  
@@ -44,6 +44,7 @@ You have to see it for yourself.”
 - 🇨🇿 Czech — Pre-Intermediate
 
 ---
+-->
 
 ### 💻 My stack and tools
 
@@ -63,9 +64,6 @@ You have to see it for yourself.”
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/><br>PostgreSQL
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="SQLite"/><br>SQLite
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/><br>MongoDB
@@ -96,9 +94,6 @@ You have to see it for yourself.”
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS"/><br>CSS
     </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap"/><br>Bootstrap
-    </td>
   </tr>
   <tr>
     <td align="center">
@@ -121,9 +116,6 @@ You have to see it for yourself.”
     </td>
     <td align="center">
       <img src="https://res.cloudinary.com/dk8llnkrq/image/upload/v1743958795/Screenshot_2025-04-06_at_19.57.37_asrsr4.png" width="40" height="40" alt="BS4"/><br>BS4
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" width="40" height="40" alt="Trello"/><br>Trello
     </td>
   </tr>
 </table>
