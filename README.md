@@ -1,5 +1,5 @@
 <h1 align="center">> Hello, I'm Stepan</h1>
-<p align="center">Backend Developer 💻 Pythonista</p>
+<p align="center">Backend Engineer 💻 </p>
 
 <!--
 ---
@@ -21,7 +21,7 @@ if __name__ == "__main__":
     print("I chose the red pill.")
     print(f"I know I’m {who_am_i()}, but I {what_do_i_do()} — {reason()}.")
 ```
--->
+
 
 ---
 
@@ -35,7 +35,7 @@ You have to see it for yourself”
 </p>
 
 ---
-
+-->
 <!--
 ### 🌐 Languages
 
