@@ -1,122 +1,41 @@
-<h1 align="center">> Hello, I'm Stepan</h1>
-<p align="center">Backend Engineer 💻 </p>
+<h1 align="center">Stepan Oleksiuk</h1>
+<p align="center"><b>AI Backend Engineer</b> · Python · FastAPI · Django · LLM integration · AI agents</p>
 
-<!--
----
+I build backends that put LLMs to work in production: AI features, agents and automations that stay reliable and cost-efficient, not just impressive in a demo.
 
-```python
-# who_is_stepan.py
+**Recent results**
+- ~50% lower AI generation costs by moving image generation to the Gemini Batch API
+- Up to 70% faster API endpoints on a production Django REST backend (N+1 removal, bulk operations)
+- A RabbitMQ consumer bug behind ~50% message loss found and fixed on a FastAPI platform
+- Sole backend developer of a mobile app: 90+ REST endpoints, RevenueCat subscriptions, Celery jobs
 
-def who_am_i():
-    return "Not the One"
+### What I build
+- AI features inside existing Django / FastAPI products: generation, classification, voice
+- AI agents with tool calling, MCP, memory and human-approval steps
+- REST APIs for web and mobile apps: auth, background jobs, Docker, Swagger docs
+- Automation: payments (Stripe, RevenueCat), Telegram bots, browser workflows (Playwright)
 
-def what_do_i_do():
-    return "Write code like it matters"
+### Selected projects
+| Project | What it is |
+|---|---|
+| **Multi-agent assistant on Claude** (private) | Orchestrator → reviewer → workers, two-tier memory (SQLite full-text + vectors), LLM-as-judge evals, Telegram interface, live dashboard |
+| **Voice Dictate** (private) | Push-to-talk dictation for macOS and Linux: streaming Whisper STT, 3 backends with fallback, LLM clean-up |
+| [aws-agent-registry-demo](https://github.com/OleksiukStepan/aws-agent-registry-demo) | Governed catalog of MCP servers and AI agents on AWS Agent Registry, IAM access control |
+| [np_ai_sol](https://github.com/OleksiukStepan/np_ai_sol) | LLM service that turns free-form team requests into a strict schema |
 
-def reason():
-    return "Because someone has to"
+### Stack
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django%20%2F%20DRF-092E20?logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?logo=celery&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?logo=googlegemini&logoColor=white)
 
-if __name__ == "__main__":
-    print("I chose Python.")
-    print("I chose the red pill.")
-    print(f"I know I’m {who_am_i()}, but I {what_do_i_do()} — {reason()}.")
-```
-
-
----
-
-<p align="center"><i>
-“Unfortunately, no one can be told what the Matrix is<br>
-You have to see it for yourself”
-</i></p>
-
-<p align="center">
-💊 <a href="https://OleksiukStepan.github.io">Enter the Matrix</a> 💊
-</p>
-
----
--->
-<!--
-### 🌐 Languages
-
-- 🇺🇦 Ukrainian — Native  
-- 🇬🇧 English — Upper-Intermediate  
-- 🇨🇿 Czech — Pre-Intermediate
-
----
--->
-
-### 💻 My stack and tools
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/><br>Python
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40" alt="Django"/><br>Django
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg" width="40" height="40" alt="DRF"/><br>DRF
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="40" height="40" alt="FastAPI"/><br>FastAPI
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/><br>PostgreSQL
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/><br>MongoDB
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40" alt="Redis"/><br>Redis
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/><br>Pandas
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy"/><br>NumPy
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="40" height="40" alt="Matplotlib"/><br>Matplotlib
-    </td>
-    <td align="center">
-      <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="40" height="40" alt="Tableau"/><br>Tableau
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/><br>JavaScript
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML"/><br>HTML
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS"/><br>CSS
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://res.cloudinary.com/dk8llnkrq/image/upload/v1743958346/celery-python-node-js-task-celery-755894a76372dafcd4ea5b9da118e9ad_dwtvdb.png" width="40" height="40" alt="Celery"/><br>Celery
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/><br>Docker
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/><br>Linux
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="40" height="40" alt="Postman"/><br>Postman
-    </td>
-    <td align="center">
-      <img src="https://res.cloudinary.com/dk8llnkrq/image/upload/v1743957955/scrapy_rje8a4.webp" width="40" height="40" alt="Scrapy"/><br>Scrapy
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40" height="40" alt="Selenium"/><br>Selenium
-    </td>
-    <td align="center">
-      <img src="https://res.cloudinary.com/dk8llnkrq/image/upload/v1743958795/Screenshot_2025-04-06_at_19.57.37_asrsr4.png" width="40" height="40" alt="BS4"/><br>BS4
-    </td>
-  </tr>
-</table>
-
+### Contact
+Open to freelance work: **[Upwork profile](https://www.upwork.com/freelancers/~01184a2189f98025e7)**
